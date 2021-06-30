@@ -1,5 +1,9 @@
 ﻿using tabuleiro;
 using System;
+
+
+
+
 namespace tabuleiro
 {
     class Tabuleiro
